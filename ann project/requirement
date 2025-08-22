@@ -1,8 +1,0 @@
-pandas
-numpy
-scikit-learn==1.4.2
-tensorboard
-matpoltlib
-streamlit
-tensorflow==2.20.0
-
